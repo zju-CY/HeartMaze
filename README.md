@@ -2,8 +2,10 @@
 
 Java编写的心形迷宫+深度寻路。参考[原创C语言版](https://github.com/neolay/HeartMaze)。
 
-结果1:![](img/1.mp4)
-结果2:![](img/2.mp4)
+结果1:
+![](img/1.mp4)
+结果2:
+![](img/2.mp4)
 
 ## 1. 生成心形线
 
@@ -181,7 +183,7 @@ public boolean find(eBLOCK[][] mazeBlock, Block in, Block out) throws Exception 
 
 注：
 MacOS下shell需要调整行距为0.5才有较好的输出效果。
-![](img/shell line height.png)
+![](img/shell_line_height.png)
 
 -------
 
