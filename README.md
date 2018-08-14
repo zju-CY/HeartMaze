@@ -3,9 +3,9 @@
 Java编写的心形迷宫+深度寻路。参考[原创C语言版](https://github.com/neolay/HeartMaze)。
 
 结果1:
-![](img/1.mp4)
+![](https://youtu.be/PeLJQY4no1w)
 结果2:
-![](img/2.mp4)
+![](https://youtu.be/GGyVq7DzUPc)
 
 ## 1. 生成心形线
 
